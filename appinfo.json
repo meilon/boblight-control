@@ -1,0 +1,42 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "385ce221-31df-4869-890e-bd748e1a21bb",
+    "appKeys": {
+        "blue": 4,
+        "status": 1,
+        "presets": 5,
+        "init": 0,
+        "preset": 6,
+        "green": 3,
+        "red": 2
+    },
+    "longName": "Boblight Control",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Boblight Control",
+    "companyName": "christian-arnold@gmx.net",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_MENU_ICON_LIGHTS_ON",
+                "file": "images/lights-on.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_MENU_ICON_LIGHTS_OFF",
+                "file": "images/lights-off.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BACKGROUND_BRAINS",
+                "file": "images/brains_watch_background.png"
+            }
+        ]
+    }
+}
